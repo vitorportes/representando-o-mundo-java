@@ -3,7 +3,7 @@ public class User {
     int age;
     private String cpf;
     private String email;
-    String course;
+    Education education;
 
     public String getCpf() {
         return this.cpf;
